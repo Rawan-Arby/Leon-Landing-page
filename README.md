@@ -30,6 +30,6 @@ This project demonstrates effective usage of HTML, CSS, and external libraries t
 - **Clone the repository:** git clone https://github.com/rawa112/Template-4.git
 
 ## ❤️ Acknowledgments
-This project was developed by <b>Rawan Arby<b> as part of a learning journey in web development.
+This project was developed by <b>Rawan Arby</b> as part of a learning journey in web development.
    
 
