@@ -1,6 +1,6 @@
-# Leon Template 1
+# Leon 
 
-Welcome to **Leon Template 1**, a modern and responsive HTML/CSS-based website built to showcase my learning and skills in web development. 
+Welcome to **Leon**, a modern and responsive HTML/CSS-based website built to showcase my learning and skills in web development. 
 This project demonstrates effective usage of HTML, CSS, and external libraries to create a visually appealing and user-friendly website.
 
 ## 🖥️ Preview
